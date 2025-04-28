@@ -1,3 +1,5 @@
+class
+
 def is_armstrong(num):
     digits = str(num)
     power = len(digits)
